@@ -9,6 +9,6 @@ Java projekts, kurš realizē metamā kauliņa mešanu.
 - [x] Izveidot GitHub repo
 - [x] Lokalais projekts izvietots GitHub
 - [x] Papildinātais GitHub krātuves saturs ieguts lokalai lietosanai
-- [] Projektam piesledzies velviens programmetajs un izmeginata kopdarbosanas
-- [] Projekta izveidots jauns zars (branch)
-- [] Sapludinati abi zari un noversts merge konflikts.
+- [ ] Projektam piesledzies velviens programmetajs un izmeginata kopdarbosanas
+- [x] Projekta izveidots jauns zars (branch)
+- [ ] Sapludinati abi zari un noversts merge konflikts.

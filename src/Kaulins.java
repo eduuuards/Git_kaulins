@@ -12,7 +12,7 @@ public class Kaulins {
 	}
 	
 	//dmitrijs
-	
+	String djima = "dmitrijs";
 	public static void main(String[] args) {
 		int reizes;
 		Scanner scan = new Scanner(System.in);
